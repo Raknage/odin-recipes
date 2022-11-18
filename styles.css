@@ -5,7 +5,7 @@ body {
     text-align: center;
 }
 
-img{
+img {
     width: 50%;
     height: auto;
 }
@@ -34,13 +34,13 @@ a:hover {
     text-decoration-line: underline;
 }
 
-h1{
+h1 {
     font-size: 5rem;
     font-weight: 800;
     font-family: inter, Roboto, Ubuntu, sans-serif;
     text-transform: uppercase;
     margin: 5%;
-    background: -webkit-linear-gradient(215deg,#d3ac42 50%,#3246f8 75%);
+    background: -webkit-linear-gradient(215deg, #d3ac42 50%, #3246f8 75%);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
