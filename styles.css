@@ -45,3 +45,8 @@ h1 {
     background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+.shadow li{
+    box-shadow: 2px 2px 7px 1px #1C6EA4;
+    padding: 10px 0px;
+}
